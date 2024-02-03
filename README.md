@@ -87,3 +87,19 @@ python manage.py runserver
 ### 1. Home Page 
 
 ![Image Alt text](/lets_quiz/images/Home.png "Home Page")
+
+### 2. click on Sign Up and create a new account if you are a new user
+
+![Image Alt text](/lets_quiz/images/signup.png "Home Page")
+
+### 3. after succesfully creating the new account you will see the rules page
+
+![Image Alt text](/lets_quiz/images/rules.png "Home Page")
+
+### 4. and then see the score of your game in the leader board
+
+![Image Alt text](/lets_quiz/images/board.png "Home Page")
+
+### 5. and finally there is also a login page
+
+![Image Alt text](/lets_quiz/images/login.png "Home Page")
